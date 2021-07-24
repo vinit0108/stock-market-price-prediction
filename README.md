@@ -2,3 +2,4 @@
 1. INFOSYS
 2. TCS
 3. NIFTY
+4. S&P 500
