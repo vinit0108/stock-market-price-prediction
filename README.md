@@ -3,3 +3,4 @@
 2. TCS
 3. NIFTY
 4. S&P 500
+5. NASDAQ
