@@ -5,3 +5,4 @@
 4. S&P 500
 5. NASDAQ
 6. APPLE
+7. GOOGLE
